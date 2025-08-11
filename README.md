@@ -57,8 +57,3 @@ Notes
 • Prevents duplicates based on lat and lon only (timestamp not used for uniqueness)
 • Use the drop() function to clear the database table
 
-Let me know if you’d like:
-• A requirements.txt
-• A GitHub logo badge
-• A demo GIF or screenshot
-• A deployment option (like a scheduled script)
